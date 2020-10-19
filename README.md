@@ -2,7 +2,7 @@
 
 
 
-![](https://github.com/jmfveneroso/kjus/blob/main/kjus.jpeg)
+![](https://github.com/jmfveneroso/kjus/blob/main/Conversa com Isabelly Mota.jpg)
 
 
 
@@ -22,7 +22,7 @@ Em segundo lugar, a plataforma também permite uma comparação do **tratamento 
 
 ## Endereço eletrônico:
 
-A nossa solução está disponível como aplicação web em [www,kjus.com.br](https://www,kjus.com.br )
+A nossa solução está disponível como aplicação web em [www.kjus.com.br](https://www,kjus.com.br )
 
 
 
@@ -85,7 +85,13 @@ Construído com:
 
 ## Funcionalidades
 
-O que faz o projeto se destacar?
+As funcionalidades do projeto foram pensadas a partir dos principais problemas enfrentados pelos usuários da plataforma: **os agentes de justiça** e **os cidadãos brasileiros**.
+A **_1ª visão_** tem como funcionalidade comparar a produtividade das diferentes unidades judiciárias brasileiras. Essa comparação é feita apenas com outras unidades similares sendo esses agrupamentos feitos a partir do método de clusterização do KJus.
+A **_2ª visão_** tem como funcionalidades possibilitar que o cidadão:
+1.Tenha noção do tempo médio que o seu processo irá durar e comparar esse tempo com outras unidades judiciárias similares;
+2. Consiga acompanhar as etapas do seu processo.
+
+É importante ressaltar que independente da visão escolhida, o princípio da plataforma é de deixar a **complexidade** por trás da plataforma e a **simplicidade** na interface com a qual o usuário interage.
 
 
 
