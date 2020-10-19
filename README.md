@@ -1,8 +1,6 @@
-# CNJ Inova Kjus
+# KJus
 
-###Autores:
 
-- Gabriel Novaes
-- João Matheus Veneroso 
-- Nívea Virgolino
-- Pedro Delfino
+
+![](https://github.com/jmfveneroso/kjus/blob/main/kjus.jpeg)
+
