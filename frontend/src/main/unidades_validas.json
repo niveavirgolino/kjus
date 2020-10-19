@@ -1,0 +1,9 @@
+{
+  "unidades": [
+    { "id": 0, "name": "1a Vara Cível de Minas Gerais" },
+    { "id": 1, "name": "Supremo Tribunal Federal" },
+    { "id": 2, "name": "Superior Tribunal de Justiça" },
+    { "id": 3, "name": "2a Vara Cível do Acre" },
+    { "id": 4, "name": "3a Tribunal da Quinta Região" }
+  ]
+}

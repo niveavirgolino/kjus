@@ -1,0 +1,12 @@
+requests
+psycopg2-binary
+djangorestframework
+django-webpack-loader
+Django
+Sphinx
+sphinx-js
+python-dateutil
+pyyaml
+djongo
+pymongo
+sshtunnel

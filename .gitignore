@@ -1,0 +1,9 @@
+token.pickle
+credentials.json
+knowledge.yml
+config.json
+*.pyc
+files/*
+files_bak/*
+logs/*
+db
